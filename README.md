@@ -24,8 +24,8 @@ With its intuitive interface and minimal dependencies, TerxTube is perfect for u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/terxtube.git
-   cd terxtube
+   git clone https://github.com/Samrat-2007/TerXTubE.git
+   cd TerXTubE
    ```
 
 2. **Install dependencies** (the tool will check and install automatically, but you can manually install them):
